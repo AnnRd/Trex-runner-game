@@ -1,10 +1,22 @@
 .play{
-  font-size: 30px;
+  font-size: 35px;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   width: 250px;
   height: 40px;
   margin: auto;
 }
+
+button{
+  font-size: 20px;
+  width: 250px;
+  height: 40px;
+  margin: 0 auto;
+  background-color: rgb(94, 116, 106);
+  border-radius: 10px;
+  margin-left: 545px;
+  margin-top: 50px;
+}
+
 
 .game{
   width: 600px;
