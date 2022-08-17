@@ -1,20 +1,31 @@
+body {
+  background-color: rgb(226, 218, 207);
+}
+
+.game-block {
+  margin-top: 150px;
+}
+
 .play{
-  font-size: 35px;
+  font-size: 46px;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  width: 250px;
+  width: 800px;
   height: 40px;
-  margin: auto;
+  margin: 0 auto;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
 }
 
 button{
   font-size: 20px;
-  width: 250px;
+  width: 350px;
   height: 40px;
-  margin: 0 auto;
   background-color: rgb(94, 116, 106);
   border-radius: 10px;
-  margin-left: 545px;
-  margin-top: 50px;
+  margin-top: 70px; 
 }
 
 
